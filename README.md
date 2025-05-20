@@ -7,10 +7,10 @@
 
 
 ## 🌐 Connect with Me
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:mansifatepara208@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-fatepara-2ab4582a9/)
+<a href="mailto:mansifatepara208@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/mansi-fatepara-2ab4582a9/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"></a>
 <a href="https://x.com/mansi_fatepara"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="30" height="30"></a>
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/immancii/)
+<a href="https://www.instagram.com/immancii/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30" height="30"></a>
 
 
 ## 🔧 Languages and Tools
