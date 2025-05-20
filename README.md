@@ -6,6 +6,12 @@
 - [ ] 📫 How to reach me : mansifatepara208@gmail.com
 
 
+
+## 🌐 Connect with Me
+<a href="https://twitter.com/yourhandle" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/twitter.svg" alt="Twitter" width="30" style="background-color: #1DA1F2; padding: 5px; border-radius: 5px;"/></a> <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/linkedin.svg" alt="LinkedIn" width="30" style="background-color: #0077B5; padding: 5px; border-radius: 5px;"/></a> <a href="https://instagram.com/yourhandle" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/instagram.svg" alt="Instagram" width="30" style="background-color: #E4405F; padding: 5px; border-radius: 5px;"/></a> <a href="mailto:youremail@gmail.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/gmail.svg" alt="Gmail" width="30" style="background-color: #D14836; padding: 5px; border-radius: 5px;"/></a>
+
+
+
 ## 🌐 Connect with Me
 <a href="https://x.com/mansi_fatepara" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/twitter.svg" alt="Twitter" width="30" style="background-color: #1DA1F2; padding: 5px; border-radius: 5px;"/>
 <a href="mailto:mansifatepara208@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="30" height="30"></a>
