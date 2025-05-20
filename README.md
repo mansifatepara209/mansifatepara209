@@ -10,7 +10,7 @@
 <a href="mailto:mansifatepara208@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="30" height="30"></a>
 <a href="https://www.linkedin.com/in/mansi-fatepara-2ab4582a9/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"></a>
 <a href="https://x.com/mansi_fatepara"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="30" height="30"></a>
-<a href="https://www.instagram.com/immancii/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30" height="30"></a>\n
+<a href="https://www.instagram.com/immancii/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30" height="30\n\n\n"></a>
 
 
 ## 🔧 Languages and Tools
