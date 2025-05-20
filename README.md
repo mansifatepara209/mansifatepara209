@@ -6,7 +6,7 @@
 - [ ] 📫 How to reach me : mansifatepara208@gmail.com
 
 
-## 🌐 Connect with Me
+## 🌐 Let's Connect with Me
 <a href="mailto:mansifatepara208@gmail.com"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" alt="Gmail" width="30" height="30"></a>
 <a href="https://www.linkedin.com/in/mansi-fatepara-2ab4582a9/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"></a>
 <a href="https://x.com/mansi_fatepara"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="30" height="30"></a>
