@@ -9,7 +9,7 @@
 ## 🌐 Connect with Me
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white)](mailto:mansifatepara208@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-fatepara-2ab4582a9/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white)](https://x.com/mansi_fatepara)
+<a href="https://x.com/mansi_fatepara"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="30" height="30"></a>
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/immancii/)
 
 
