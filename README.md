@@ -10,7 +10,7 @@
 
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/in-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-fatepara-2ab4582a9/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mansi-fatepara-2ab4582a9/)
 
 
 <!---
