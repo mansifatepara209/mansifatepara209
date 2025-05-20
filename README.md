@@ -1,5 +1,6 @@
 # Hello!! I’m Mansi Fatepara👋, 
-## Pofile
+
+## Profile
 
 - [ ] I'm currently working on something cool!!!
 - [x] I'm currently learning Web Development
