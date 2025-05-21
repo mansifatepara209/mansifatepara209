@@ -3,7 +3,7 @@
 - [ ] 🔭 I'm currently working on something cool!!!
 - [x] 🌱 I'm currently learning Web Development
 - [ ] 👨‍💻 All of my projects are available at [GitHub](https://github.com/mansifatepara209)
-- [ ] 📫 How to reach me : mansifatepara208@gmail.com
+- [ ] 📫 How to reach me : [Mail to :](mansifatepara208@gmail.com)
 
 
 ## 🌐 Let's Connect with Me
