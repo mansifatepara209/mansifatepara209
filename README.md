@@ -21,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansifatepara209&show_icons=true&theme=default\n)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mansifatepara209&show_icons=true&theme=default)
 ![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mansifatepara209&theme=default)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=default)](https://git.io/streak-stats)
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mansifatepara209&theme=default)
