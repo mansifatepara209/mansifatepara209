@@ -11,6 +11,13 @@
 <a href="https://www.linkedin.com/in/mansi-fatepara-2ab4582a9/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="LinkedIn" width="30" height="30"></a>
 <a href="https://x.com/mansi_fatepara"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/twitter.svg" alt="Twitter" width="30" height="30"></a>
 <a href="https://www.instagram.com/immancii/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/instagram.svg" alt="Instagram" width="30" height="30"></a>
+<a href="mailto:mansifatepara208@gmail.com">
+  <svg role="img" width="30" height="30" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg" fill="#D14836">
+    <title>Gmail</title>
+    <path d="... actual Gmail path here ..." />
+  </svg>
+</a>
+
 
 
 ## 🔧 Languages and Tools
