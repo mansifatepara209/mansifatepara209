@@ -1,7 +1,7 @@
 <h2 align="center">Hello 👋!! I’m Mansi Fatepara </h2>
 
 - 🛰️ I'm currently working on something cool!!!
-- 🌱 I'm currently learning Web Development
+- 🌱 I'm currently learning App Development
 - 👩‍💻 All of my projects are available at [MyCode](https://github.com/mansifatepara209)
 - 📬 How to reach me : mansifatepara208@gmail.com
 
