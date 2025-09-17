@@ -2,7 +2,7 @@
 
 - 🛰️ I'm currently working on something cool!!!
 - 🌱 I'm currently learning App Development
-- 👩‍💻 All of my projects are available at [MyCode](https://github.com/mansifatepara209)
+- 👩‍💻 All of my projects are available at [MyGithub](https://github.com/mansifatepara209)
 - 📬 How to reach me : mansifatepara208@gmail.com
 
 
