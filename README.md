@@ -10,6 +10,7 @@
 [![My Skills](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:mansifatepara208@gmail.com)
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/mansi-fatepara-2ab4582a9/)
 [![My Skills](https://skillicons.dev/icons?i=twitter&theme=light)](https://x.com/mansi_fatepara)
+[![My Skills](https://skillicons.dev/icons?i=instagram&theme=light)](https://www.instagram.com/immancii/)
 
 
 ## 🔧 Languages and Tools
